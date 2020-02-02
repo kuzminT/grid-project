@@ -1,3 +1,5 @@
-# Grid layouts examples
+# Grid-project
 
-Test project for experiment with grid layout.
+### Grid layouts examples
+
+Test project for experiments with grid layout.
